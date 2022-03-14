@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://femidenton.github.io/csb-dw1mj/static/css/main.ca650b31.chunk.css",
+    "main.js": "https://femidenton.github.io/csb-dw1mj/static/js/main.fdc59f69.chunk.js",
+    "main.js.map": "https://femidenton.github.io/csb-dw1mj/static/js/main.fdc59f69.chunk.js.map",
+    "runtime-main.js": "https://femidenton.github.io/csb-dw1mj/static/js/runtime-main.54e25474.js",
+    "runtime-main.js.map": "https://femidenton.github.io/csb-dw1mj/static/js/runtime-main.54e25474.js.map",
+    "static/js/2.07031e86.chunk.js": "https://femidenton.github.io/csb-dw1mj/static/js/2.07031e86.chunk.js",
+    "static/js/2.07031e86.chunk.js.map": "https://femidenton.github.io/csb-dw1mj/static/js/2.07031e86.chunk.js.map",
+    "index.html": "https://femidenton.github.io/csb-dw1mj/index.html",
+    "static/css/main.ca650b31.chunk.css.map": "https://femidenton.github.io/csb-dw1mj/static/css/main.ca650b31.chunk.css.map",
+    "static/js/2.07031e86.chunk.js.LICENSE.txt": "https://femidenton.github.io/csb-dw1mj/static/js/2.07031e86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54e25474.js",
+    "static/js/2.07031e86.chunk.js",
+    "static/css/main.ca650b31.chunk.css",
+    "static/js/main.fdc59f69.chunk.js"
+  ]
+}
